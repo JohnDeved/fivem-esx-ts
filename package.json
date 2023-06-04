@@ -1,5 +1,5 @@
 {
-  "name": "fivem-esx-js",
+  "name": "esx-ts",
   "version": "0.1.17",
   "description": "Javascript/Typescript wrapper for the FiveM ESX core natives",
   "dependencies": {
